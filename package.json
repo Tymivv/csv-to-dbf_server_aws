@@ -1,0 +1,23 @@
+{
+  "name": "csv-to-dbf_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "serverless-http": "^2.7.0",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dbffile": "^1.11.0",
+    "express": "^4.19.2",
+    "iconv-lite": "^0.6.3",
+    "multer": "^1.4.5-lts.1",
+    "node-dbf": "^0.4.0",
+    "papaparse": "^5.4.1",
+    "serverless-http": "^3.2.0"
+  }
+}
